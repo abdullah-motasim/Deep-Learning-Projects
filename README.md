@@ -1,4 +1,5 @@
-Disclaimer
+**Disclaimer**
+
 The labs and code in this repository are intended to showcase the skills and knowledge I acquired during a coding course. They are provided for educational and informational purposes only.
 
 Important Notice:
